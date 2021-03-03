@@ -1,0 +1,82 @@
+body {
+  background-image: url(https://image.freepik.com/free-photo/pink-marble-texture-background-abstract-marble-texture-natural-patterns_41389-205.jpg);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font: x-large 2em Arial, sans-serif;
+  padding: 0;
+  background-color: rgb(199, 196, 196);
+  color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  overflow: hidden;
+}
+main {
+  position: relative;
+  width: 70%;
+  box-sizing: border-box;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 0 0 5px;
+  padding: 8px;
+  margin: 10px auto;
+  font: medium 2em Arial, sans-serif;
+  box-shadow: 0 0 5px;
+  min-height: 600px;
+}
+.text {
+  position: absolute;
+  left: 27%;
+  padding: 10px;
+  margin: 3px;
+  top: 5%;
+  box-sizing: border-box;
+  font: medium 2em Arial, sans-serif;
+  width: 70%;
+  min-height: 200px;
+}
+.imag {
+  position: absolute;
+  left: 10px;
+  top: 5%;
+  box-sizing: border-box;
+  width: 25%;
+  height: 58%;
+  border: 1px solid transparent;
+  border-radius: 15px;
+  box-shadow: 0 0 5px;
+}
+.item1 {
+  position: relative;
+  left: 5px;
+  top: 380px;
+  margin: 0;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.primer-koda {
+  position: absolute;
+  width: 60%;
+  padding: 5px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+header {
+  height: 80px;
+}
+h6 {
+  font: 1.2em Arial, sans-serif;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  color: lightgrey;
+  text-align: right;
+  margin: 0;
+  overflow: hidden;
+}
+a {
+  text-decoration: none;
+  color: lightgrey;
+}
