@@ -204,6 +204,7 @@ h5 {
   left: 20px;
   width: 336px; 
   height: 189px;
+  border: 0;
 }
 @media (max-width: 950px) {
   .youtube {
