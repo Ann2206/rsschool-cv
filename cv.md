@@ -12,5 +12,5 @@
     }
    ```
 6.  
-7. I am in my fourth year at BSUIR.))
+7. I am in my fourth year at BSUIR.
 8. I completed an English course at B1 level at Streamline Language School.
